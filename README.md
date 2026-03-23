@@ -1,6 +1,6 @@
-# Vehicle Dynamics - MPC
+# Vehicle Dynamics - iLQR
 ## CEL
-* bicycle model + MPC
+* bicycle model + iLQR
 
 
 ### 1. Model bazowy ([commonroad-vehicle-models](https://gitlab.lrz.de/tum-cps/commonroad-vehicle-models))
@@ -10,9 +10,7 @@
 
 ### 3. Model opon (linear tire model/Pacejka)
 
-### 4. Ograniczenia (sterowania, toru)
-
-### 5. Sterowanie
+### 4. Sterowanie
 
 * regulator pure pursuit (do sprawdzania modelu)
-* MPC
+* iLQR
