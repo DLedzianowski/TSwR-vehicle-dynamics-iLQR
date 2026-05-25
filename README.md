@@ -27,6 +27,6 @@
 
 
 
-### Błąd symulacji przy różnych parametrach modelu w regulatorze iLQR [(main_lqr_parameters.py)](main_lqr_parameters.py)
+### Koszt symulacji przy różnych parametrach modelu w regulatorze iLQR [(main_lqr_parameters.py)](main_lqr_parameters.py)
 W analizie wrażliwości zmieniano masę, moment bezwładności lub parametry Pacejki opon, skalując je współczynnikiem alpha:
-<img src="plot/parameters_step60.png" alt="param_error" width="700"/>
+<img src="plot/parameters_cost.png" alt="param_cost" width="700"/>
